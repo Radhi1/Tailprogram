@@ -1,0 +1,31 @@
+ample1
+2
+3
+4
+5
+5
+6
+67
+7
+10
+11
+
+
+
+ashwin
+ashwin
+ashwin
+ashwin
+ashwin
+ashwin
+ashwin
+ashwin
+newline
+total 16
+drwxr-xr-x  4 ashwinnaik  staff   136 Feb 18 13:09 .
+drwxr-xr-x  4 ashwinnaik  staff   136 Feb 18 13:06 ..
+-rw-r--r--  1 ashwinnaik  staff  2460 Feb 19 10:56 Tail.java
+-rw-r--r--@ 1 ashwinnaik  staff    97 Feb 19 10:56 sample.txt
+Tail.java
+sample.txt
+i love you radhu beta
